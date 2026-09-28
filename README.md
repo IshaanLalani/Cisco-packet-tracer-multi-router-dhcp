@@ -1,4 +1,4 @@
-# DHCP Lab (EIGRP Core)
+# EIGRP 
 
 ## Topology
 
