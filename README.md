@@ -1,9 +1,4 @@
-# Enterprise Multi-Router Network 
 # DHCP Lab (EIGRP Core)
-
-Source file: `DHCP.pkt` — 5× Cisco 2911 routers (EIGRP AS 10), 4× 2960-24TT switches, 8 PCs, 1 Power Distribution Device.
-
-> **Naming note:** despite the filename, every PC in the capture has a **static** IP/mask/gateway configured (see PC configs below) — there's no DHCP pool (`ip dhcp pool`) on any router and no PC is set to `ip dhcp`. This looks like a base EIGRP topology intended as a DHCP exercise starting point, not a lab with DHCP actually configured yet.
 
 ## Topology
 
